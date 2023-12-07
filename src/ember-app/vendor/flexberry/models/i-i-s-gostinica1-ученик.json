@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISGostinica1Ученик",
+  "modelName": "i-i-s-gostinica1-ученик",
+  "className": "Ученик",
+  "nameSpace": "IIS.Gostinica1",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "фио",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "УченикE",
+      "modelName": "i-i-s-gostinica1-ученик",
+      "attrs": [
+        {
+          "name": "фио",
+          "caption": "Фио",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "УченикL",
+      "modelName": "i-i-s-gostinica1-ученик",
+      "attrs": [
+        {
+          "name": "фио",
+          "caption": "Фио",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

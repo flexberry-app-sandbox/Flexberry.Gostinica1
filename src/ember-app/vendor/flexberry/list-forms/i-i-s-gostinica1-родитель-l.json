@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-gostinica1-родитель-e",
+  "editForm": "i-i-s-gostinica1-родитель-e",
+  "external": false,
+  "caption": "Родитель",
+  "name": "IISGostinica1РодительL",
+  "className": "РодительL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gostinica1-родитель",
+      "modelProjection": "РодительL"
+    }
+  ]
+}

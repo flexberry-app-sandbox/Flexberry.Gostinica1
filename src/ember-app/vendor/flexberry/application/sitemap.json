@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Gostinica1",
+  "applicationTitle": "Gostinica1",
+  "items": [
+    {
+      "link": null,
+      "menuName": "gostinica1",
+      "caption": "Gostinica1",
+      "title": "Gostinica1",
+      "children": [
+        {
+          "link": "i-i-s-gostinica1-родитель-l",
+          "menuName": null,
+          "caption": "Родитель",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-gostinica1-ученик-l",
+          "menuName": null,
+          "caption": "Ученик",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
